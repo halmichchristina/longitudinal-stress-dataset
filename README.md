@@ -1,4 +1,4 @@
-# A six-week longitudinal dataset of wearable and self-reported stress measurements in working adults
+# A six-week longitudinal dataset of wearable and self-reported stress measurements in working adults: Validation Code
 This repository contains the Jupyter notebooks used for data preparation and
 technical validation of the RELAX longitudinal stress dataset, as described in:
 
